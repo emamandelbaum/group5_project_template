@@ -7,7 +7,7 @@
 ## Team Members
 | Name | Role | GitHub username |
 |------|------|-----------------|
-|   Emma   | Design     |     Emma            |
+|   Emma   | Design     |     emamandelbaum           |
 |   Romane  | CFD     |     Romane            |
 |   Filippo   | Experimentation     |      Filippo           |
 
