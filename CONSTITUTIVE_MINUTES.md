@@ -1,21 +1,21 @@
 # Constitutive Minutes - Team [Number]
 
-**Date:**
+**Date:28/09/26**
 
 **Time:**
 
 ## Team Members
 | Name | Role | GitHub username |
 |------|------|-----------------|
-|   [Name 1]   | Design     |                 |
-|   [Name 2]   | CFD     |                 |
-|   [Name 3]   | Experimentation     |                 |
+|   [Name 1]   | Design     |     Emma            |
+|   [Name 2]   | CFD     |     Romane            |
+|   [Name 3]   | Experimentation     |      Filippo           |
 
 
 
 ## Project Title
 
-[Title]
+[Title] Car Radiator Fan
 
 
 ## Brief description
