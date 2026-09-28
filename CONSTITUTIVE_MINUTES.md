@@ -7,9 +7,9 @@
 ## Team Members
 | Name | Role | GitHub username |
 |------|------|-----------------|
-|   [Name 1]   | Design     |     Emma            |
-|   [Name 2]   | CFD     |     Romane            |
-|   [Name 3]   | Experimentation     |      Filippo           |
+|   Emma   | Design     |     Emma            |
+|   Romane  | CFD     |     Romane            |
+|   Filippo   | Experimentation     |      Filippo           |
 
 
 
