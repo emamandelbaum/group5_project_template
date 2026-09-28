@@ -25,4 +25,5 @@ Target specifications:
 - Rotational speed: 
 
 ## Team's work regulations:
+1 meeting per week. Discussion on a whatsapp group if needed (exchange of information, time of the meeting, questions..)
 
