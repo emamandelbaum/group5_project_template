@@ -2,7 +2,7 @@
 
 **Date:28/09/26**
 
-**Time:**
+**Time:4pm**
 
 ## Team Members
 | Name | Role | GitHub username |
@@ -15,7 +15,7 @@
 
 ## Project Title
 
-[Title] Car Radiator Fan
+Car Radiator Fan
 
 
 ## Brief description
