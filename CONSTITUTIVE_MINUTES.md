@@ -20,7 +20,7 @@ Car Radiator Fan
 
 ## Brief description
 Target specifications:
-- Flow rate: mass flow rate = 3kg/s ; volume flow rate = 2.55 m^3/s
+- Flow rate: Between 0.5 and 2.5 m^3/s
 - Pressure rise: Between 1000 and 1200 Pa
 - Rotational speed: Between 1500 and 2500 rpm (~2000rpm)
 
