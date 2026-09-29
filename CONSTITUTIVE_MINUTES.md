@@ -1,6 +1,6 @@
 # Constitutive Minutes - Team 5
 
-**Date:28/09/26**
+**Date:24/09/26**
 
 **Time:4pm**
 
@@ -8,7 +8,7 @@
 | Name | Role | GitHub username |
 |------|------|-----------------|
 |   Emma   | Design     |     emamandelbaum           |
-|   Romane  | CFD     |     Romane            |
+|   Romane  | CFD     |     romanedaguin            |
 |   Filippo   | Experimentation     |      Filippo           |
 
 
@@ -20,9 +20,9 @@ Car Radiator Fan
 
 ## Brief description
 Target specifications:
-- Flow rate: 
-- Pressure rise: 
-- Rotational speed: 
+- Flow rate: mass flow rate = 3kg/s ; volume flow rate = 2.55 m^3/s
+- Pressure rise: Between 1000 and 1200 Pa
+- Rotational speed: Between 1500 and 2500 rpm (~2000rpm)
 
 ## Team's work regulations:
 1 meeting per week. Discussion on a whatsapp group if needed (exchange of information, time of the meeting, questions..)
