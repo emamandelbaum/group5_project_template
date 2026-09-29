@@ -9,7 +9,7 @@
 |------|------|-----------------|
 |   Emma   | Design     |     emamandelbaum           |
 |   Romane  | CFD     |     romanedaguin            |
-|   Filippo   | Experimentation     |      Filippo           |
+|   Filippo   | Experimentation     |      FilippoRossi37           |
 
 
 
